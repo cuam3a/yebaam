@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+//@import "./button";
+
+@layer base {
+  * {
+    @apply font-montserrat;
+  }
+}
+
+body {
+  background-color: #F1EAFA;
+}
