@@ -46,7 +46,7 @@ export default function Login() {
         <meta name="viewport" content="width=device-width, initial-scale=1" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <main className="w-full justify-center bg-white">
+      <main className="w-full h-screen justify-center bg-white">
         <div className="w-full h-20 bg-green mt-14">
           <Image
             src="/images/logo.jpeg"
